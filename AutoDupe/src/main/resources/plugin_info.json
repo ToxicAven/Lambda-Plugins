@@ -1,0 +1,10 @@
+{
+  "name": "AutoDupe",
+  "version": "1.0",
+  "authors": [
+    "ToxicAven"
+  ],
+  "description": "Automatically preform the 5b5t crafting dupe",
+  "main_class": "AutoDupeLoader",
+  "min_api_version": "2.04.01"
+}
