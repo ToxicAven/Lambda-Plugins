@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "fogcolor",
+    "name": "FogColor",
+    "description": "changes the color of renderfog",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "lambda-client.com",
+    "updateUrl": "",
+    "authorList": [
+      "ToxicAven"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [],
+    "test": ""
+  }
+]
