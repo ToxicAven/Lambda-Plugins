@@ -1,29 +1,13 @@
-# Lambda Plugin SDK
+# AutoDupe: Automatically performs the 5B5T.org crafting dupe
 
-This project in an example to show how a proper plugin is set up.
+## Instructions
 
-## Setup
+- ### Requires wooden planks of any type to be in your inventory.
+- hold the item you wish to dupe in your main hand.
+- Toggle the module. The item will drop on the floor.
+- wait until the item is picked back up.
 
-Follow these steps to build your own plugin for lambda.
+<br>
 
-### 1. Clone Repository
-
-### 2. Setup IDE
-
-### 3. Configure Gradle
-
-### 4. Plugin
-
-### 6. PluginModule
-
-### 7. ClientCommand
-
-### 8. PluginLabelHud
-
-### 9. Background Jobs
-
-### 10. Config
-
-### 11. Build
-
-### 12. Publish
+## *Based around the Lambda Plugin SDK*
+### *To build the plugin, simply run* `./gradlew jar` *or the* `jar` *task in your IDE.*
