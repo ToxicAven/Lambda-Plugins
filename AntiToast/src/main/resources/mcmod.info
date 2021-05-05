@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "antitoast",
+    "name": "AntiToast",
+    "description": "Hides Minecraft tutorial toasts",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "lambda-client.com",
+    "updateUrl": "",
+    "authorList": [
+      "ToxicAven"
+    ],
+    "credits": "ToxicAven",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [],
+    "test": ""
+  }
+]
