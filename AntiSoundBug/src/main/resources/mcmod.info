@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "antisoundbug",
+    "name": "AntiSoundBug",
+    "description": "Reloads your sound system",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "lambda-client.com",
+    "updateUrl": "",
+    "authorList": [
+      "ToxicAven"
+    ],
+    "credits": "ToxicAven",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [],
+    "test": ""
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "name": "AntiSoundBug",
+  "version": "1.0",
+  "authors": [
+    "ToxicAven"
+  ],
+  "description": "Reloads your sound system",
+  "main_class": "SoundBugLoader",
+  "min_api_version": "2.04.01"
+}
