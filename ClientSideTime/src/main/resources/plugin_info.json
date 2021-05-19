@@ -1,0 +1,10 @@
+{
+  "name": "ClientSideTime",
+  "version": "1.0",
+  "authors": [
+    "ToxicAven"
+  ],
+  "description": "does absolutely nothing",
+  "main_class": "CSTLoader",
+  "min_api_version": "2.04.01"
+}
