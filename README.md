@@ -11,10 +11,10 @@ Repo for my plugins for [Lambda Client](https://github.com/Lambda-client/Lambda)
 | Backpack | Allow you to hold your enderchest GUI for a short distance | No |
 | BarrierVision | See barriers in survival/without holding a barrier | No |
 | Burrow | Glitch into a block, covering your lower half from crystals | No |
-| ClientSideTime | Change the time of day for yourself | No |
+| ClientSideTime | Change the time of day for yourself | Yes |
 | DVD Simulator | Bouncing DVD Logo | No |
 | EnchantColor | Change the glint color of your enchanted tools and armor | No |
-| F3 Spoof | Hide certain parts of your Debug Menu | No |
+| F3 Spoof | Hide certain parts of your Debug Menu | Yes |
 | FogColor | Change the color of render fog | Yes |
 | Franky | Exactly what you expect it to do :trollface: | No |
 | HoleFiller | Fills in holes that players could take cover from crystals in | No |
