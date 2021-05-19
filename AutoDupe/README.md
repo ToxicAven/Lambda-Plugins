@@ -1,4 +1,4 @@
-# AutoDupe: Automatically performs the 5B5T.org crafting dupe
+# AutoDupe: Automatically performs the [5b5t](https://5b5t.org) crafting dupe
 
 ## Instructions
 
