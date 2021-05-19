@@ -1,0 +1,10 @@
+{
+  "name": "F3 Spoof",
+  "version": "1.0",
+  "authors": [
+    "ToxicAven"
+  ],
+  "description": "Modifies your Debug Menu",
+  "main_class": "F3Loader",
+  "min_api_version": "2.04.01"
+}
