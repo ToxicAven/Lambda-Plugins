@@ -23,6 +23,7 @@ Repo for my plugins for [Lambda Client](https://github.com/Lambda-client/Lambda)
 | Parkour | Jump automatically at the very edge of blocks | No |
 | PopCat | Simple repeating animation of PopCat | No |
 | RideFinder | Print a message in chat with coordinates when a rideable entity comes into view | No |
+| SelfWeb | Places a web in your feet | Yes |
 | SuperSecretShaders | Pre 1.10 ingame shaders (Removed due to CodeFactor) | No |
 | UnfocusedFPS | Lower your FPS when the game isn't in focus to reduce CPU Usage | No |
 | VClip | Attempt to clip through blocks vertically | No |
