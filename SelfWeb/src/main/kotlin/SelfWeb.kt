@@ -5,10 +5,7 @@ import com.lambda.client.module.modules.player.Freecam
 import com.lambda.client.plugin.api.PluginModule
 import com.lambda.client.util.items.blockBlacklist
 import com.lambda.client.util.items.shulkerList
-import com.lambda.client.util.text.MessageSendHelper.sendChatMessage
-import com.lambda.client.util.threads.onMainThreadSafe
 import com.lambda.client.util.threads.safeListener
-import kotlinx.coroutines.runBlocking
 import net.minecraft.block.Block
 import net.minecraft.block.BlockAir
 import net.minecraft.block.BlockLiquid
@@ -21,7 +18,6 @@ import net.minecraft.network.Packet
 import net.minecraft.network.play.client.CPacketEntityAction
 import net.minecraft.network.play.client.CPacketPlayer
 import net.minecraft.network.play.client.CPacketPlayerDigging
-import net.minecraft.network.play.client.CPacketUseEntity
 import net.minecraft.util.EnumFacing
 import net.minecraft.util.EnumHand
 import net.minecraft.util.math.BlockPos
