@@ -20,7 +20,7 @@ Repo for my plugins for [Lambda Client](https://github.com/Lambda-client/Lambda)
 | HoleFiller | Fills in holes that players could take cover from crystals in | No |
 | HorseJump | Lock your horse's jump bar to the maximum height | No |
 | MusicBox | Play music from creative mode, and other dimensions | No |
-| Parkour | Jump automatically at the very edge of blocks | No |
+| Parkour | Jump automatically at the very edge of blocks | Yes |
 | PopCat | Simple repeating animation of PopCat | No |
 | RideFinder | Print a message in chat with coordinates when a rideable entity comes into view | No |
 | SelfWeb | Places a web in your feet | Yes |

@@ -1,0 +1,13 @@
+{
+  "name": "Parkour",
+  "version": "1.0",
+  "authors": [
+    "ToxicAven"
+  ],
+  "description": "Jump at the very edge of blocks",
+  "url": "",
+  "min_api_version": "2.05.01",
+  "required_plugins": [],
+  "main_class": "ParkourLoader",
+  "hot_reload": true
+}
