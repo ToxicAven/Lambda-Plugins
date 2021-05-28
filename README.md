@@ -25,7 +25,7 @@ Repo for my plugins for [Lambda Client](https://github.com/Lambda-client/Lambda)
 | RideFinder | Print a message in chat with coordinates when a rideable entity comes into view | No |
 | SelfWeb | Places a web in your feet | Yes |
 | SuperSecretShaders | Pre 1.9 ingame shaders | Yes |
-| UnfocusedFPS | Lower your FPS when the game isn't in focus to reduce CPU Usage | No |
+| UnfocusedFPS | Lower your FPS when the game isn't in focus to reduce CPU Usage | Yes |
 | VClip | Attempt to clip through blocks vertically | No |
 | WaterSpeed | Kinda misleading, allows you to sink and rise faster than normal | No |
 | XCarryViewer | Show what is in your 2x2 crafting grid on screen | No |
