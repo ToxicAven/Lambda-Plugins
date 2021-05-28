@@ -8,7 +8,7 @@ Repo for my plugins for [Lambda Client](https://github.com/Lambda-client/Lambda)
 | AntiSoundBug | Reloads the sound system to try to fix bugged audio | Yes |
 | AntiToast | Hide those annoying tutorial and recipe popups | Yes |
 | AutoDupe | Perform the 5B5T Crafting Dupe automatically, requires wooden planks | Yes |
-| Backpack | Allow you to hold your enderchest GUI for a short distance | No |
+| Backpack | Allow you to hold your enderchest GUI for a short distance | Yes |
 | BarrierVision | See barriers in survival/without holding a barrier | No |
 | Burrow | Glitch into a block, covering your lower half from crystals | No |
 | ClientSideTime | Change the time of day for yourself | Yes |
